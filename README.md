@@ -3,6 +3,8 @@
 * I'm an active member of [Sustainability Lab](https://sustainability-lab.github.io/) led by [Prof. Nipun Batra](https://nipunbatra.github.io/).  
 * I love implementing things from scratch and understanding the core concepts behind them.
 
+#### Website: [vinayakrana.github.io](https://vinayakrana.github.io/)
+
 
 
 ## 🌐 Socials:
